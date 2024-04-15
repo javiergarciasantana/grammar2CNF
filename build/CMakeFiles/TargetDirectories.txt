@@ -1,0 +1,3 @@
+/home/usuario/practicas/CyA/p08_grammar2CNF/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/practicas/CyA/p08_grammar2CNF/build/CMakeFiles/edit_cache.dir
+/home/usuario/practicas/CyA/p08_grammar2CNF/build/CMakeFiles/p08_grammar2CNF.dir
